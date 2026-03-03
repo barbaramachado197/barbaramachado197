@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Lost access to my old Github account but you can check some of my projects here, while I try to recover it: https://github.com/barbaramchd
+
 <!--
 **barbaramachado197/barbaramachado197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
